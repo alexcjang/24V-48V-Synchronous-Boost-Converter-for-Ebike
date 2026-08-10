@@ -1,0 +1,234 @@
+(footprint "WL-SMRW_1206_REC"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "<B>WL-SMRW SMT Mono-color Reverse mount Waterclea</B><BR><BR>Size：1206 rectangular, SMT, 2pins<BR>3.2x1.6x1.2mm(LXWXH)<BR><BR>Normal use")
+	(property "Reference" "REF**"
+		(at 0 -2.135 0)
+		(layer "F.SilkS")
+		(uuid "32836c8e-2758-47c3-b17e-00eb4dbd223f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WL-SMRW_1206_REC"
+		(at 0 2.065 0)
+		(layer "F.Fab")
+		(uuid "3623c850-3002-4f9c-a5d0-cf8e37726b3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41a3b2ef-f2d1-4434-b914-9614180ca672")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fd7bbab-a106-42a6-a4dd-035ca7b92a5c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "facc9389-b89e-46d9-8457-6bd9f47e6c57")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.7 -0.9)
+		(end 0.7 -0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b6d00c8-ee96-4864-9e6b-533400d627d2")
+	)
+	(fp_line
+		(start -0.7 0.9)
+		(end 0.7 0.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eca23ea6-70cb-41b1-9971-77b69dc03e89")
+	)
+	(fp_line
+		(start -0.3 0)
+		(end 0.2 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7f2ca5ac-6873-4435-abd3-478c4dc365a9")
+	)
+	(fp_line
+		(start 0.2 -0.4)
+		(end 0.2 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "74fab965-1bb7-4869-905b-777b0d333cb3")
+	)
+	(fp_line
+		(start 0.2 0.4)
+		(end -0.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "243f5970-d9fe-4db3-b0f5-882f6367235f")
+	)
+	(fp_poly
+		(pts
+			(xy -2.7 -1.1) (xy 2.7 -1.1) (xy 2.7 1.1) (xy -2.7 1.1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.CrtYd")
+		(uuid "e05923a3-9c39-4536-9fc0-6d2bd82e01da")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41de95c2-663f-4692-9bbf-1856cb9cf423")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5edd965d-6a25-4dd3-a8ee-97c6edf83c77")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b211638d-750f-45be-9f1d-79e2af38393b")
+	)
+	(fp_line
+		(start -0.3 0)
+		(end 0.2 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6eef973-b3b2-438b-8ffa-cef9a116e6f4")
+	)
+	(fp_line
+		(start 0.2 -0.4)
+		(end 0.2 0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "937a4327-5c90-48d7-b19d-5170b962fbba")
+	)
+	(fp_line
+		(start 0.2 0.4)
+		(end -0.3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1b6549bb-3f1f-4588-824f-51952b4bef25")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cc91fa71-1fc6-4d2c-86c5-0bdb06649fea")
+	)
+	(fp_text user "+"
+		(at 3.2 0 0)
+		(layer "F.Fab")
+		(uuid "bcb7094e-cc76-4b0f-9b55-b57a2640c8e6")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.75 0)
+		(size 1.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "26bb7e95-7ace-438e-86fd-46545112ffd8")
+	)
+	(pad "2" smd rect
+		(at 1.75 0)
+		(size 1.5 1.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "3639b4f0-10d3-4c52-99ea-71ec8fa1d7ef")
+	)
+	(model "WL-SMRW_1206_REC.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
